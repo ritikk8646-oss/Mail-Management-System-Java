@@ -1,0 +1,6 @@
+out/
+*.class
+data/mail-data.ser
+.idea/
+.vscode/
+.DS_Store
